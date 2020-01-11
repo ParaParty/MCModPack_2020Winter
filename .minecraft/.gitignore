@@ -18,3 +18,5 @@
 # 文件
 option*.*
 *.log
+launcher*
+user*
