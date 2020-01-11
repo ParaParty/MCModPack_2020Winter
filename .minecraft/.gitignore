@@ -1,0 +1,20 @@
+# 简 单 粗 暴
+# 文件夹
+/.mixin.out/
+/assets/
+/CustomSkinLoader/
+/journeymap/
+/libraries/
+/liteconfig/
+/llibrary/
+/local/
+/logs/
+/openvr/
+/resourcepacks/
+/resources/
+/saves/
+/shaderpacks/
+/versions/
+# 文件
+option*.*
+*.log

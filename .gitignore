@@ -1,29 +1,34 @@
-# version:1
-*\
+# version:3
+/*.exe
+/*.json
+# # version:2
+# # *.exe
+# # *.json
+# # *.txt
+# # *.log
+# # **/caches/
+# # assets/
+# /.minecraft/**/
+# # mods文件夹 但排除插件
+# ! .minecraft/mods/
+# /.minecraft/mods/plugins/
+# #客户端特有mod
+# NotEnoughItems-1.12.2-2.4.2.240-universal.jar
+# JustEnoughResources-1.12.2-0.8.5.27.jar
+# JustEnoughCharacters-1.12.0-3.4.3.jar
+# journeymap-1.12.2-5.5.4.jar
+# MouseTweaks-2.8-mc1.12.1.jar
+# Neat 1.4-15.jar
+# OptiFine_1.12.2_HD_U_E3.jar
+# DurabilityViewer-1.12-forge14.21.1.2387-1.4.jar
+# foamfix-0.9.5-1.12.2-law.jar
+# Hwyla-1.8.26-B41_1.12.2.jar
+# InventoryTweaks-1.63.jar
+# SmoothFont-mc1.12.2-1.16.2.jar
+# tweakergui-1.12.2-0.5-beta.jar
+# VanillaFix-1.0.10-99.jar
+# #config
+# ! .minecraft/config
 
-! *.jar
-! *.cfg
-! *.ini
-# mods文件夹 但排除插件
-! /.minecraft/mods/
-/.minecraft/mods/plugins/
-#客户端特有mod
-NotEnoughItems-1.12.2-2.4.2.240-universal.jar
-JustEnoughResources-1.12.2-0.8.5.27.jar
-JustEnoughCharacters-1.12.0-3.4.3.jar
-journeymap-1.12.2-5.5.4.jar
-MouseTweaks-2.8-mc1.12.1.jar
-Neat 1.4-15.jar
-OptiFine_1.12.2_HD_U_E3.jar
-DurabilityViewer-1.12-forge14.21.1.2387-1.4.jar
-foamfix-0.9.5-1.12.2-law.jar
-Hwyla-1.8.26-B41_1.12.2.jar
-InventoryTweaks-1.63.jar
-SmoothFont-mc1.12.2-1.16.2.jar
-tweakergui-1.12.2-0.5-beta.jar
-VanillaFix-1.0.10-99.jar
-#config
-! /.minecraft/config
-
-#scripts
-! /.minecraft/scripts
+# #scripts
+# ! .minecraft/scripts
