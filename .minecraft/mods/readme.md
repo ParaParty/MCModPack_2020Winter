@@ -8,10 +8,15 @@
 - **铁背包**	IronBackpacks-1.12.2-3.0.8-12
   - 各种背包,最大容量63格(钻石背包)
 - **铁箱子**	ironchest-1.12.2-7.0.42.827
+- **除魔台** disenchanter-[1.12]1.6
+  - 将物品的第一个附魔取出,给书附魔
 - **自然**	natura-1.12.2-4.3.2.69
   - 很多好康的地形
 - **开放式方块**	OpenBlocks-1.12.2-1.8.1 
   - 各种奇奇怪怪的东西,比如滑翔翼
+- **高级烟囱** AdChimneys-1.12.2-3.5.9.0-build.0435
+  - ~~圣诞老人快乐mod~~一系列烟囱
+  - 好像要配合同系列的其他mod,咕且先不管了
 - **抽屉**	StorageDrawers-1.12.2-5.3.8	
   - 装大量同种物品
   - 一个抽屉装一座山也不是不可能
@@ -19,6 +24,20 @@
   - 装饰！
 - **抓钩**	grapplemod-v11.1-1.12.2	
   - 跑图/作死神器
+- **战斗高塔** BattleTowers-1.12.2
+  - 超多刷怪笼
+  - 超多奖励箱
+- **物品的物理** ItemPhysic_Full_1.4.27_mc1.12.2
+  - 密度小的物品会浮起来
+  - 不会烧掉的物品在岩浆里不会烧掉
+  - 仙人掌不会破坏物品
+- **全局GameRule** GlobalGameRules-1.12.2-2.2.7
+  - 麻麻再也不用担心我忘记/gamerule KeepInventory true了
+- **真实火把** RealisticTorches-1.12.2-2.1.1
+- **种菜收经验** xpfromharvest-1.12.2-1.1.0
+- **抱起来** CarryOn MC1.12.2 v1.12.3
+  - 可以让你抱起箱子/动物
+  - 不能抱起玩家
 ## 辅助		
 - **整合包魔改器**	CraftTweaker2-1.12-4.1.19
   - 主要用于修改合成表	
@@ -26,7 +45,7 @@
 - **NEI**	NotEnoughItems-1.12.2-2.4.2.240-universal	
 - **JEI附属**	JustEnoughResources-1.12.2-0.8.5.27	
 - **JEI拼音**	JustEnoughCharacters-1.12.0-3.4.3
-  - 能输入拼音查找物品
+  - 能输入拼音查找物品,拼音首字母好像也可以
 - **旅行地图**	journeymap-1.12.2-5.5.4
   - 一个挺好使的地图
   - 可以显示探索过的区域
@@ -57,6 +76,7 @@
 - **CrT GUI**	tweakergui-1.12.2-0.5-beta	
   - 如不了解，可有可无
 - **字体修复** TexFix+V-1.12-4.0.jar
+- **自定义菜单** CustomMainMenu-MC1.12.2-2.0.9
 - **原版修复**	VanillaFix-1.0.10-99	
 	- 其中一项功能是crash不用重新启动游戏
 	- 貌似还有别的不知道是啥的功能
@@ -65,7 +85,10 @@
 ## 前置		
 - **EP前置**	Bookshelf-1.12.2-2.3.570	
 - **抽屉前置**	Chameleon-1.12-4.1.3	
-- **不知道是什么的前置**	CodeChickenLib-1.12.2-3.2.2.353-universal		
+- **不知道是什么的前置**	CodeChickenLib-1.12.2-3.2.2.353-universal
+- **一个前置** CreativeCore_v1.9.74_mc1.12.2
+  - ItemPhysic_Full前置
+- **更好烟囱前置** ForgeEndertech-1.12.2-4.5.0.0-build.0435
 - **OB前置**	OpenModsLib-1.12.2-0.12.2	
 - **热力前置**	RedstoneFlux-1.12-2.1.0.6-universal	
 - **苹果核**	AppleCore-mc1.12.2-3.2.0	
