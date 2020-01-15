@@ -15,8 +15,19 @@
 /saves/
 /shaderpacks/
 /versions/
+/luckperms/
+/nucleus/
 # 文件
 option*.*
 *.log
 launcher*
 user*
+# 服务器相关
+*server*
+whitelist*
+Run*
+banned*
+eula.txt
+*forge*
+ops*
+/world/
