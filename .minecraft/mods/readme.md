@@ -1,6 +1,9 @@
 # Mods简介
 ## 主要内容		
 - **超多生物群系**	BiomesOPlenty-1.12.2-7.0.1.2439-universal
+- **应用能源** appliedenergistics2-rv6-stable-7
+  - 一个科技类mod
+- **血魔法** BloodMagic-1.12.2-2.4.3-105
 - **饥饿改革**	HungerOverhaul-1.12.2-1.3.3.jenkins148
 - **潘马斯农场** Pam's+HarvestCraft+1.12.2zd+Surprise+for+Yogcast
   - 超多食物
@@ -56,6 +59,8 @@
   - 也可以更少	
 - **血量显示**	Neat 1.4-15	
 - **高清修复**	OptiFine_1.12.2_HD_U_E3	
+  - 一些优化画面的功能
+  - 提供光影的支持
 - **耐久显示**	DurabilityViewer-1.12-forge14.21.1.2387-1.4
   - 工具武器的耐久
   - 显示背包空间余量
@@ -90,6 +95,8 @@
   - ItemPhysic_Full前置
 - **更好烟囱前置** ForgeEndertech-1.12.2-4.5.0.0-build.0435
 - **OB前置**	OpenModsLib-1.12.2-0.12.2	
+- **血魔法前置** Guide-API-1.12-2.1.8-63
+  - 同时也是一个方便写新手指导书的API?
 - **热力前置**	RedstoneFlux-1.12-2.1.0.6-universal	
 - **苹果核**	AppleCore-mc1.12.2-3.2.0	
 - **苹果皮**	AppleSkin-mc1.12-1.0.9	
