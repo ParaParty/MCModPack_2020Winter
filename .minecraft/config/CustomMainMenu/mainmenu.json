@@ -1,24 +1,24 @@
 {
     "images":
     {
+        "bg":
+        {
+            "image" : "paracraft:bg.png",
+            "posX" : -30,
+            "posY" : -270,
+            "width" : 960,
+            "height" : 540,
+            "alignment" : "left_center"
+        },
+
         "title":
         {
-            "image" : "custommainmenu:textures/gui/minecraft.png",
-            "posX" : -137,
-            "posY" : 30,
-            "width" : 512,
-            "height" : 512,
-            "alignment" : "top_center"
-        },
-        
-        "edition":
-        {
-            "image" : "custommainmenu:textures/gui/edition.png",
-            "posX" : -49,
-            "posY" : 67,
-            "width" : 128,
-            "height" : 16,
-            "alignment" : "top_center"
+            "image" : "paracraft:paracraft.png",
+            "posX" : 40,
+            "posY" : -150,
+            "width" : 216,
+            "height" : 42,
+            "alignment" : "left_center"
         }
     },
     
@@ -27,98 +27,73 @@
         "singleplayer":
         {
             "text" : "menu.singleplayer",
-            "posX" : -100,
-            "posY" : 48,
-            "width" : 200,
-            "height" : 20,
+            "posX" : 80,
+            "posY" : -50,
+            "width" : 130,
+            "height" : 30,
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "singleplayer"
-            }
+            },
+            "texture" : "paracraft:btn.png",
+            "alignment" : "left_center",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 16777215
         },
         
         "multiplayer":
         {
             "text" : "menu.multiplayer",
-            "posX" : -100,
-            "posY" : 72,
-            "width" : 200,
-            "height" : 20,
+            "posX" : 80,
+            "posY" : -10,
+            "width" : 130,
+            "height" : 30,
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "multiplayer"
-            }
+            },
+            "texture" : "paracraft:btn.png",
+            "alignment" : "left_center",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 16777215
         },
         
         "mods":
         {
             "text" : "fml.menu.mods",
-            "posX" : -100,
-            "posY" : 96,
-            "width" : 200,
-            "height" : 20,
+            "posX" : 80,
+            "posY" : 30,
+            "width" : 60,
+            "height" : 30,
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "mods"
-            }
+            },
+            "texture" : "paracraft:btn2.png",
+            "alignment" : "left_center",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 16777215
         },
             
         "options":
         {
             "text" : "menu.options",
-            "posX" : -100,
-            "posY" : 132,
-            "width" : 98,
-            "height" : 20,
+            "posX" : 150,
+            "posY" : 30,
+            "width" : 60,
+            "height" : 30,
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "options"
-            }
-        },
-        
-        "quit":
-        {
-            "text" : "menu.quit",
-            "posX" : 2,
-            "posY" : 132,
-            "width" : 98,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "quit"
-            }
-        },
-        
-        "language":
-        {
-            "text" : "",
-            "posX" : -124,
-            "posY" : 132,
-            "width" : 20,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "languages"
-            }
-        },
-        
-        "refresh":
-        {
-            "text" : "",
-            "posX" : -154,
-            "posY" : 132,
-            "width" : 20,
-            "height" : 20,
-            "texture" : "custommainmenu:textures/gui/buttons.png",
-            "action" : 
-            {
-                "type" : "refresh"
-            }
+            },
+            "texture" : "paracraft:btn2.png",
+            "alignment" : "left_center",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 16777215
         }
     },
     
@@ -127,8 +102,8 @@
         "mojang":
         {
             "text" : "Copyright Mojang AB. Do not distribute!",
-            "hoverText" : "ßnCopyright Mojang AB. Do not distribute!",
-            "posX" : -197,
+            "hoverText" : "Œ“∞Æ–°∫Æ~",
+            "posX" : -140,
             "posY" : -10,
             "color" : -1,
             "alignment" : "bottom_right",
@@ -143,7 +118,7 @@
         {
             "text" : "",
             "posX" : 2,
-            "posY" : -40,
+            "posY" : -46,
             "color" : -1,
             "alignment" : "bottom_left"
         }
@@ -153,20 +128,22 @@
     {
         "splash-text":
         {
-            "posX" : 90,
-            "posY" : 70,
+            "posX" : 240,
+            "posY" : -110,
             "color" : -256,
-            "alignment" : "top_center",
+            "alignment" : "left_center",
             "texts" : "file:minecraft:texts/splashes.txt"
         },
         
-        "panorama":
+        "background":
         {
-            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
-            "animate" : true,
-            "animationSpeed" : 1,
-            "blur" : true,
-            "gradient" : true
-        }
+            "image" : "",
+            "slideshow":
+            {
+                "images" : ["paracraft:bg_1.png","paracraft:bg_2.png","paracraft:bg_3.png","paracraft:bg_4.png","paracraft:bg_5.png","paracraft:bg_6.png","paracraft:bg_7.png"],
+                "displayDuration" : 100,
+                "fadeDuration" : 40
+                }
+            }
     }
 }
