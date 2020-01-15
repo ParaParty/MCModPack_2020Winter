@@ -18,3 +18,14 @@ wawla.cfg
 NEI/
 InvTweaks*
 jei/*.cfg
+# 服务器特有
+sponge/
+nucleus/
+bStats/
+luckperms/
+craftbook/
+karoglansigneditor/
+placeholderapi/
+totaleconomy/
+flexiblelogin/
+*twentyticks*
