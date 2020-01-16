@@ -15,4 +15,4 @@
 
 (大概)首个基于Github支持一键更新的整合包 ~~因为补丁可能会有很多~~
 
-Mod简介戳[这里](.\.minecraft\mods\readme.md)
+Mod简介戳[这里](.minecraft\mods\readme.md)
