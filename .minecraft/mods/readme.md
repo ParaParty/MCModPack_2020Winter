@@ -34,8 +34,8 @@
   - 密度小的物品会浮起来
   - 不会烧掉的物品在岩浆里不会烧掉
   - 仙人掌不会破坏物品
-- **全局GameRule** GlobalGameRules-1.12.2-2.2.7
-  - 麻麻再也不用担心我忘记/gamerule KeepInventory true了
+- ~~**全局GameRule** GlobalGameRules-1.12.2-2.2.7~~
+  - ~~麻麻再也不用担心我忘记/gamerule KeepInventory true了~~
 - **真实火把** RealisticTorches-1.12.2-2.1.1
 - **种菜收经验** xpfromharvest-1.12.2-1.1.0
 - **抱起来** CarryOn MC1.12.2 v1.12.3
