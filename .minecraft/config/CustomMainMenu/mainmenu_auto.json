@@ -5,19 +5,19 @@
         {
             "image" : "paracraft:bg.png",
             "posX" : -30,
-            "posY" : -270,
-            "width" : 960,
-            "height" : 540,
+            "posY" : -173,
+            "width" : 614,
+            "height" : 346,
             "alignment" : "left_center"
         },
-
+        
         "title":
         {
             "image" : "paracraft:paracraft.png",
-            "posX" : 40,
-            "posY" : -150,
-            "width" : 216,
-            "height" : 42,
+            "posX" : 15,
+            "posY" : -110,
+            "width" : 138,
+            "height" : 27,
             "alignment" : "left_center"
         }
     },
@@ -27,7 +27,7 @@
         "singleplayer":
         {
             "text" : "menu.singleplayer",
-            "posX" : 80,
+            "posX" : 20,
             "posY" : -50,
             "width" : 130,
             "height" : 30,
@@ -45,7 +45,7 @@
         "multiplayer":
         {
             "text" : "menu.multiplayer",
-            "posX" : 80,
+            "posX" : 20,
             "posY" : -10,
             "width" : 130,
             "height" : 30,
@@ -63,7 +63,7 @@
         "mods":
         {
             "text" : "fml.menu.mods",
-            "posX" : 80,
+            "posX" : 20,
             "posY" : 30,
             "width" : 60,
             "height" : 30,
@@ -81,7 +81,7 @@
         "options":
         {
             "text" : "menu.options",
-            "posX" : 150,
+            "posX" : 90,
             "posY" : 30,
             "width" : 60,
             "height" : 30,
@@ -102,8 +102,8 @@
         "mojang":
         {
             "text" : "Copyright Mojang AB. Do not distribute!",
-            "hoverText" : "ï¿½nCopyright Mojang AB. Do not distribute!",
-            "posX" : -197,
+            "hoverText" : "ÎÒ°®Ð¡º®~",
+            "posX" : -140,
             "posY" : -10,
             "color" : -1,
             "alignment" : "bottom_right",
@@ -118,7 +118,7 @@
         {
             "text" : "",
             "posX" : 2,
-            "posY" : -40,
+            "posY" : -46,
             "color" : -1,
             "alignment" : "bottom_left"
         }
@@ -128,8 +128,8 @@
     {
         "splash-text":
         {
-            "posX" : 240,
-            "posY" : -110,
+            "posX" : 140,
+            "posY" : -80,
             "color" : -256,
             "alignment" : "left_center",
             "texts" : "file:minecraft:texts/splashes.txt"
