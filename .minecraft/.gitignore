@@ -1,4 +1,5 @@
 # 简 单 粗 暴
+
 # 文件夹
 /.mixin.out/
 /assets/
@@ -17,11 +18,14 @@
 /versions/
 /luckperms/
 /nucleus/
+/screenshots/
+
 # 文件
 option*.*
 *.log
 launcher*
 user*
+
 # 服务器相关
 *server*
 whitelist*

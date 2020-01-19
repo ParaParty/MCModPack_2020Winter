@@ -1,7 +1,24 @@
-@echo off
-@echo 拉取远端记录...
+@ECHO off
+
+ECHO 拉取远端记录...
 git pull origin
-@echo 正在检出变更...
+IF NOT %ERRORLEVEL% == 0 GOTO FAIL
+
+ECHO.
+ECHO.
+ECHO 正在检出变更...
 git checkout -f
-@echo 若上文没有任何报错,即可正常启动
-@pause
+IF NOT %ERRORLEVEL% == 0 GOTO FAIL
+
+ECHO.
+ECHO.
+ECHO 更新成功
+GOTO FINAL
+
+:FAIL
+ECHO.
+ECHO.
+ECHO 更新失败
+
+:FINAL
+PAUSE
