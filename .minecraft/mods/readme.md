@@ -1,8 +1,18 @@
 # Mods简介
 ## 主要内容		
 - **超多生物群系**	BiomesOPlenty-1.12.2-7.0.1.2439-universal
+- **通用机械** Mekanism-1.12.2-9.8.3.390
+  - 科技mod
+  - 材质好康
+  - 但是似乎比较简单
+- **通用机械发电机** MekanismGenerators-1.12.2-9.8.3.390
+  - 通用机械的发电机系列
+  - 核聚变!
+- **通用机械工具** MekanismTools-1.12.2-9.8.3.390
+  - 一些非常op的工具
 - **应用能源** appliedenergistics2-rv6-stable-7
   - 一个科技类mod
+  - 其实主要是物流和存储
 - **血魔法** BloodMagic-1.12.2-2.4.3-105
 - **饥饿改革**	HungerOverhaul-1.12.2-1.3.3.jenkins148
 - **潘马斯农场** Pam's+HarvestCraft+1.12.2zd+Surprise+for+Yogcast
