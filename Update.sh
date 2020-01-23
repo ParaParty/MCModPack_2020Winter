@@ -1,3 +1,13 @@
+echo "正在校验版本..."
+git checkout -f
+if [ $? -ne 0 ];  then
+	echo -e "\n"
+	echo "更新失败"
+	read -s -n1 -p "按任意键继续 ... "
+	exit -1;
+fi
+
+echo -e "\n"
 echo "拉取远端记录..."
 git pull origin
 if [ $? -ne 0 ];  then
