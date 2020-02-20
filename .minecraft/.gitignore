@@ -33,7 +33,7 @@ whitelist*
 Run*
 banned*
 eula.txt
-*forge*
+*forge*instal*
 ops*
 /world/
 start.sh
