@@ -1,59 +1,98 @@
 # Mods简介
 ## 主要内容		
 - **超多生物群系**	BiomesOPlenty-1.12.2-7.0.1.2439-universal
+
 - **通用机械** Mekanism-1.12.2-9.8.3.390
   - 科技mod
   - 材质好康
   - 但是似乎比较简单
+  
 - **通用机械发电机** MekanismGenerators-1.12.2-9.8.3.390
   - 通用机械的发电机系列
   - 核聚变!
+  
 - **通用机械工具** MekanismTools-1.12.2-9.8.3.390
+  
   - 一些非常op的工具
+  
 - **应用能源** appliedenergistics2-rv6-stable-7
   - 一个科技类mod
   - 其实主要是物流和存储
+  
 - **血魔法** BloodMagic-1.12.2-2.4.3-105
+
 - **饥饿改革**	HungerOverhaul-1.12.2-1.3.3.jenkins148
+
 - **潘马斯农场** Pam's+HarvestCraft+1.12.2zd+Surprise+for+Yogcast
   - 超多食物
   - 超多食材
+  
 - **铁背包**	IronBackpacks-1.12.2-3.0.8-12
+  
   - 各种背包,最大容量63格(钻石背包)
+  
 - **铁箱子**	ironchest-1.12.2-7.0.42.827
+
 - **除魔台** disenchanter-[1.12]1.6
+  
   - 将物品的第一个附魔取出,给书附魔
+  
 - **自然**	natura-1.12.2-4.3.2.69
+  
   - 很多好康的地形
+  
 - **开放式方块**	OpenBlocks-1.12.2-1.8.1 
+  
   - 各种奇奇怪怪的东西,比如滑翔翼
+  
 - **高级烟囱** AdChimneys-1.12.2-3.5.9.0-build.0435
   - ~~圣诞老人快乐mod~~一系列烟囱
   - 好像要配合同系列的其他mod,咕且先不管了
+  
 - **抽屉**	StorageDrawers-1.12.2-5.3.8	
   - 装大量同种物品
   - 一个抽屉装一座山也不是不可能
+  
 - **雕刻**	Chisel-MC1.12.2-0.2.1.35	
+  
   - 装饰！
+  
 - **抓钩**	grapplemod-v11.1-1.12.2	
+  
   - 跑图/作死神器
+  
 - **战斗高塔** BattleTowers-1.12.2
   - 超多刷怪笼
   - 超多奖励箱
+  
 - **物品的物理** ItemPhysic_Full_1.4.27_mc1.12.2
   - 密度小的物品会浮起来
   - 不会烧掉的物品在岩浆里不会烧掉
   - 仙人掌不会破坏物品
+  
 - ~~**全局GameRule** GlobalGameRules-1.12.2-2.2.7~~
+  
   - ~~麻麻再也不用担心我忘记/gamerule KeepInventory true了~~
+  
 - **真实火把** RealisticTorches-1.12.2-2.1.1
+
 - **种菜收经验** xpfromharvest-1.12.2-1.1.0
+
 - **抱起来** CarryOn MC1.12.2 v1.12.3
+  
   - 可以让你抱起箱子/动物
   - 搬床似乎也是可以的
   - 不能抱起玩家
   - 具体看config文件
+  
+- **WE** WorldEdit CUI Forge Edition 2-2.1.2-mf-1.12.2-14.23.5.2768.jar
+
+  - 创造模式辅助器，可批量编辑方块，如复制、镜像、旋转等等
+
+  
+
 ## 辅助		
+
 - **整合包魔改器**	CraftTweaker2-1.12-4.1.19
   - 主要用于修改合成表	
 - **JEI**	jei_1.12.2-4.12.1.217	
