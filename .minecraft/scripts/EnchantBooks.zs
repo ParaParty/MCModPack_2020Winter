@@ -1,4 +1,4 @@
-var enchant_ExpRepair = <minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 33 as short}], display: {Lore: ["只有学会魔法的人才能制作"]}});
+var enchant_ExpRepair = <minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 70 as short}], display: {Lore: ["只有学会魔法的人才能制作"]}});
 recipes.addShapeless(
     "Enchant_ExpRepair",
     enchant_ExpRepair,
